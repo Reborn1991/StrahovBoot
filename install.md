@@ -5,3 +5,5 @@
     apt install nodejs-legacy
 
 Then follow [here]: https://hubot.github.com/docs/
+
+Note run *npm* with sudo
